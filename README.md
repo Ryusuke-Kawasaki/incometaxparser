@@ -1,0 +1,2 @@
+# incometaxparser
+所得税のxlxsファイルをjsオブジェクトに変換するツール
